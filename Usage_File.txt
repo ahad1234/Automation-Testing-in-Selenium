@@ -1,0 +1,7 @@
+--------------------->> Description on How to Use:
+--- The main file to run the tests is Page_Tests.java
+--- Compile this file either in Eclipse IDE or through CMD.
+--- Then run this file in Eclipse IDE or through CMD.
+--- Broswer will open and tests will start running.
+--- An Excel file will be generated with the name entered by the user.
+--- The excel file will have results for each test.
